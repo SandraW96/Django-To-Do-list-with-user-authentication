@@ -1,0 +1,6 @@
+login: sandra
+password: youshallnotpass
+
+login: daria
+password: cyberman
+
